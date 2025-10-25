@@ -80,4 +80,4 @@ Currently learning **Kubernetes and container orchestration** to scale cloud-nat
 
 ---
 
-<h4 align="center">✨ “Automate what you can, learn what you can’t — yet.” ✨</h4>
+<h4 align="center">✨ “Automate what you can, learn what you can’t yet.” ✨</h4>
