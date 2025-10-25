@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Ondah James
+# 👋 Hi, I’m Ondah, James
 
 🚀 **Aspiring DevOps Engineer | Cloud Enthusiast | Automation Explorer**
 
