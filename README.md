@@ -1,56 +1,42 @@
-# 👋 Hi, I’m James
+<h1 align="center">👋 Hi, I’m Ondah James</h1>
 
-🚀 **Aspiring DevOps Engineer | Cloud Enthusiast | Automation Explorer**
-
-I’m passionate about building scalable, secure, and efficient systems using modern DevOps tools and cloud technologies.
-
----
-
-### 🔧 Tools & Technologies
-
-#### ☁️ Cloud
-[![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
-
-#### 🧱 Infrastructure as Code
-[![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://developer.hashicorp.com/terraform)
-[![CloudFormation](https://img.shields.io/badge/CloudFormation-%23FF4F8B.svg?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/cloudformation/)
-
-#### 🔄 CI/CD
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
-[![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white)](https://www.jenkins.io/)
-
-#### 🐳 Containers & Orchestration
-[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-
-#### 📊 Monitoring & Observability
-[![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
-[![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white)](https://prometheus.io/)
-
-#### 🔐 Version Control
-[![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+<p align="center">
+  <em>
+    🌍 ALX DevOps Learner | Cloud Engineer in Training | Cloud Administrator | Automation Enthusiast <br>
+    Passionate about cloud infrastructure, scalability, and building solutions that make a real difference.
+  </em>
+</p>
 
 ---
 
-### 🌱 Current Focus
-Exploring **Infrastructure as Code (IaC)** and **Cloud Automation** using Terraform.  
-Building projects that bridge development and operations for real-world efficiency.  
-Experimenting with **Google Cloud** to strengthen multi-cloud deployment experience.
+### 🧠 About Me
+I am a learner of the **ALX DevOps Program**, building a strong foundation in **software engineering, cloud computing, and system automation**.  
+My journey began with a curiosity for how technology works behind the scenes and how it can be used to **solve human problems and create opportunities**.  
+
+💡 I’m passionate about:
+- Designing scalable and secure cloud-based solutions  
+- Automating workflows for efficiency and reliability  
+- Exploring how technology, collaboration, and ideas can transform lives  
+
+🎯 My aim is to **become a skilled Cloud Engineer and Cloud Administrator**, leveraging automation and cloud infrastructure to empower businesses.  
+That’s why I love working on **real-world DevOps pipelines, cloud automation projects, and scalable infrastructure deployments**.
 
 ---
 
-### 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ondahjames&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ondahjames&layout=compact&theme=radical)
+### 🛠️ Tools & Technologies
 
----
+<p align="center">
+  <a href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white"/></a>
+  <a href="https://azure.microsoft.com/"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/></a>
+  <a href="https://cloud.google.com/"><img src="https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
+  <a href="https://developer.hashicorp.com/terraform"><img src="https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"/></a>
+  <a href="https://www.jenkins.io/"><img src="https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white"/></a>
 
 ### 💬 Let’s Connect
 - 🌐 [LinkedIn](https://www.linkedin.com/in/ondahjames)
 - 🧠 [ALX DevOps Learning Journey](#)
 
-> “Automate what you can, learn what you can’t — yet.”  
-> *– Ondah James*
+> “Automate what you can, learn what you can’t yet.”  
+> *Ondah James*
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/></a>
+  <a href="https://kubernetes.io/"><img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
